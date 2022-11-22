@@ -25,4 +25,7 @@
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
+
+Sou um apaixonado por tecnologia com vasta experiência em Analytics e BI, começando meus estudos em programação e desenvolvimento.
+Atualmente utilizo o GitHub para controlar as versões dos códigos que faço dentro das empresas em que atuo. Logo começo a subir repositórios públicos com o meu portfólio particular.
   
